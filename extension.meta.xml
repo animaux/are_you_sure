@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension id="are_you_sure" status="released" xmlns="http://symphony-cms.com/schemas/extension/1.0">
+	<name>Are you sure?</name>
+	<description>Are-You-Sure (Dirty Form Detection)</description>
+	<repo type="github">https://github.com/animaux/are_you_sure</repo>
+	<types>
+		<type>Interface</type>
+	</types>
+	<authors>
+		<author>
+			<name github="animaux" symphony="animaux">Alexander Rutz</name>
+			<website>http://animaux.de</website>
+		</author>
+	</authors>
+	<releases>
+	  <release version="0.1" date="2015-05-13" min="2.6" max="2.x.x">
+			- Initial Release
+		</release>
+	</releases>
+</extension>
