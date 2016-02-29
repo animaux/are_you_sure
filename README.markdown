@@ -8,7 +8,7 @@ Install and activate. Options are currently only configurable in `assets/are-you
 
 ## Bugs and limitations
 
-+ currently not detecting changes in [Editor for Symphony](https://github.com/symphonists/editor_for_symphony) fields, any hints?
++ support for [Editor for Symphony](https://github.com/symphonists/editor_for_symphony) could be flakey
 
 ## Acknowledgement
 

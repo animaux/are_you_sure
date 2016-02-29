@@ -13,6 +13,9 @@
 		</author>
 	</authors>
 	<releases>
+	  <release version="0.2" date="2016-02-29" min="2.6" max="2.x.x">
+			- Hackish Support for »Editor for Symphony«
+		</release>
 	  <release version="0.1" date="2015-05-13" min="2.6" max="2.x.x">
 			- Initial Release
 		</release>
