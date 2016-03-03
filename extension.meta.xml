@@ -13,6 +13,10 @@
 		</author>
 	</authors>
 	<releases>
+	  <release version="0.3" date="2016-02-29" min="2.6" max="2.x.x">
+			- Simply entering an »Editor for Symphony«-field does not trigger a dirty form
+			- language support for german, norwegian, maltese (thanks Jon!)
+		</release>
 	  <release version="0.2" date="2016-02-29" min="2.6" max="2.x.x">
 			- Hackish Support for »Editor for Symphony«
 		</release>

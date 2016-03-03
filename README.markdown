@@ -6,10 +6,6 @@ Add a warning message to the backend if you try to leave the page with unsaved c
 
 Install and activate. Options are currently only configurable in `assets/are-you-sure.publish.js`. 
 
-## Bugs and limitations
-
-+ support for [Editor for Symphony](https://github.com/symphonists/editor_for_symphony) could be flakey
-
 ## Acknowledgement
 
 This extension simply implements the jQuery Plugin: [Are-You-Sure (Dirty Form Detection)](https://github.com/codedance/jquery.AreYouSure/).
