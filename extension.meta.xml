@@ -13,13 +13,13 @@
 		</author>
 	</authors>
 	<releases>
-	  <release version="0.5" date="2016-02-03" min="2.6" max="2.x.x">
+	  <release version="0.5" date="2016-03-03" min="2.6" max="2.x.x">
 			- language support for french (thanks Nicolas!)
 		</release>
-	  <release version="0.4" date="2016-02-02" min="2.6" max="2.x.x">
+	  <release version="0.4" date="2016-03-02" min="2.6" max="2.x.x">
 			- language support for estonian (thanks Kristjan!)
 		</release>
-	  <release version="0.3" date="2016-02-01" min="2.6" max="2.x.x">
+	  <release version="0.3" date="2016-03-02" min="2.6" max="2.x.x">
 			- Simply entering an »Editor for Symphony«-field does not trigger a dirty form
 			- language support for german, norwegian, maltese (thanks Jon!)
 		</release>
