@@ -21,6 +21,8 @@
         $callback = Symphony::Engine()->getPageCallback();
 
         if ($callback['driver'] == 'publish' && $callback['context']['page'] !== 'index') {
+            Administration::instance()->Page->addStylesheetToHead(URL . '/extensions/are_you_sure/assets/are-you-sure.publish.css');
+            
             Administration::instance()->Page->addScriptToHead(URL . '/extensions/are_you_sure/assets/are-you-sure.js');
             Administration::instance()->Page->addScriptToHead(URL . '/extensions/are_you_sure/assets/are-you-sure.publish.js');
         }
